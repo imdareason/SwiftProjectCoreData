@@ -1,0 +1,6 @@
+framework module Pods_PruebaBeRepublic {
+  umbrella header "Pods-PruebaBeRepublic-umbrella.h"
+
+  export *
+  module * { export * }
+}
